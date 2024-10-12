@@ -53,4 +53,4 @@ Here are some screenshots of the logo and planning stages:
 
 - A huge thank you to [Florian Walther](https://www.youtube.com/@codinginflow) from the **Coding in Flow** YouTube channel. His focused, concise, and clear programming tutorials were incredibly helpful throughout the development of this game, and I couldn’t have done it without them.
 - A big thank you to my friend [Camila Arneiro](https://www.instagram.com/camilaarneiro/) for helping with the UX design and creating the logo for Pixel Harvest. She also contributed to the drafts for the level design, and her support was invaluable to this project.
->>>>>>> 14ec7ed5c040c5b2bacf890a71090c6845922894
+
