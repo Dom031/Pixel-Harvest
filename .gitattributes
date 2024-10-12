@@ -1,0 +1,9 @@
+# Ignore ASP.NET and other Unity-specific files
+*.unity linguist-vendored
+*.asset linguist-vendored
+*.meta linguist-vendored
+*.csproj linguist-vendored
+*.shader linguist-vendored
+*.prefab linguist-vendored
+*.dll linguist-vendore
+*.cs linguist-detectable
