@@ -37,9 +37,9 @@ Pixel Harvest was developed as part of my Year 2 project for the Software Develo
 
 Here are some screenshots from the development and planning stages:
 
-![Logo](https://github.com/Dom031/Pixel-Harvest/blob/main/pics/Picture1.png)
-![Level Design](https://github.com/Dom031/Pixel-Harvest/blob/main/pics/Picture2.png)
-![Last level](https://github.com/Dom031/Pixel-Harvest/blob/main/pics/Picture4.png)
+![Logo](https://github.com/Dom031/Pixel-Harvest/blob/main/pics/Picture1.png){:height="200px" width="300px"}
+![Level Design](https://github.com/Dom031/Pixel-Harvest/blob/main/pics/Picture2.png){:height="200px" width="300px"}
+![Last level](https://github.com/Dom031/Pixel-Harvest/blob/main/pics/Picture4.png){:height="200px" width="300px"}
 
 ## Credits
 
