@@ -7,3 +7,19 @@
 *.prefab linguist-vendored
 *.dll linguist-vendore
 *.cs linguist-detectable
+
+# Ignore ASP.NET-related files
+*.aspx linguist-vendored
+*.ascx linguist-vendored
+*.cshtml linguist-vendored
+*.vbhtml linguist-vendored
+*.config linguist-vendored
+
+# Ignore ShaderLab files (HLSL, etc.)
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.hlsl linguist-vendored
+
+# Prioritize C# files
+*.cs linguist-detectable
+
