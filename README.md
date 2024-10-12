@@ -35,11 +35,7 @@ Pixel Harvest was developed as part of my Year 2 project for the Software Develo
 
 ## Screenshots
 
-Here are some screenshots from the development and planning stages:
-
-## Screenshots
-
-Here are some screenshots from the development and planning stages:
+Here are some screenshots of the logo and planning stages:
 
 <p align="center">
   <img src="https://github.com/Dom031/Pixel-Harvest/blob/main/pics/Picture1.png" alt="Logo" width="400"/>
