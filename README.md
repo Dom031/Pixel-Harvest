@@ -51,7 +51,7 @@ Here are some screenshots of the logo and planning stages:
 - **Assets**: Free assets from the Unity Asset Store, including packs by *Pixel Frog* and *Quantum Tek*.
 - **Font**: Press Start 2P - [Google Fonts](https://fonts.google.com/specimen/Press+Start+2P?query=Press)
 
-- ### Special Thanks
+## Special Thanks
 
 - A huge thank you to [Florian Walther](https://www.youtube.com/@codinginflow) from the **Coding in Flow** YouTube channel. His focused, concise, and clear programming tutorials were incredibly helpful throughout the development of this game, and I couldn’t have done it without them.
 
